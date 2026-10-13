@@ -14,5 +14,4 @@ Contains data and code to reproduce biomarker analysis study.
   2) modelRun.ipynb will execute the fitting algorithm for the mathematical model over the cohort and plot the results.
 
 
-
-Clinical protocol is given in 19367.protocolv4.3.2022-08-23.pdf.
+* Clinical protocol is given in 19367.protocolv4.3.2022-08-23.pdf.
